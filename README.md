@@ -1,0 +1,1 @@
+# Linux-Firefox-Developer-Edition-Quick-Install-Script
